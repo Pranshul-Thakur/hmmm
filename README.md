@@ -1,2 +1,1 @@
-# hmmm
-basic multitool
+# Discord and insta spammer bot
